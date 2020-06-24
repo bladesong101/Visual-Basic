@@ -1,0 +1,5 @@
+Escort, 12, 30, 22, 45, 2, 45, 12
+corvette, 6, 34, 46, 89, 23, 45, 51
+NY Taxi, 2, 45, 56, 32, 12, 21, 23
+Imperial Star Destroyer,0,0,0,0,0,0,0
+odd data,4
